@@ -8,9 +8,15 @@
     <link href="/2024/03/23/test/"/>
     <url>/2024/03/23/test/</url>
     
-    <content type="html"><![CDATA[<p>这是我的猫</p><img src="/2024/03/23/test/cat.png" class="">]]></content>
+    <content type="html"><![CDATA[<p>这是我的猫<br><img src="/img/cat.jpg"></p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
     
   </entry>
   
